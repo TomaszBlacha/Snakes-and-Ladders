@@ -7,8 +7,6 @@
 #include <QGraphicsItem>
 #include <map>
 
-#include "board_Path.h"
-
 namespace Ui {
 class Game;
 }
